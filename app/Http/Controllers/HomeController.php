@@ -9,7 +9,7 @@ use \App\Models\ContactConfig;
 use App\Models\Story;
 use App\Models\TeamMember;
 use App\Models\Value;
-use App\models\Product;
+use App\Models\Product;
 
 class HomeController extends Controller
 {
