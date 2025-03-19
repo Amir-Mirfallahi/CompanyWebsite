@@ -1,0 +1,9 @@
+nginx-config
+├── conf
+│   ├── nginx.conf
+│   └── sites-available
+│       └── default.conf
+├── logs
+│   ├── access.log
+│   └── error.log
+└── README.md
